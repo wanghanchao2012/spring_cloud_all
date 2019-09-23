@@ -9,7 +9,9 @@
 	<name>springcloudexample</name>
 	<packaging>pom</packaging>
 	<modules>
-		<module>eureka_server</module>
+		<module>eureka-client</module>
+		<module>eureke-server</module>
+		<module>eureka-server1</module>
 	</modules>
 
 
@@ -17,7 +19,6 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.2.RELEASE</version>
-		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
 
