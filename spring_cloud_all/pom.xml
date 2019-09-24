@@ -12,6 +12,8 @@
 		<module>eureka-client</module>
 		<module>eureke-server</module>
 		<module>eureka-server1</module>
+		<module>eureka-ribbon-client</module>
+		<module>eureka-client1</module>
 	</modules>
 
 
