@@ -1,0 +1,1 @@
+https://github.com/wanghanchao2012/spring_cloud_all.git
